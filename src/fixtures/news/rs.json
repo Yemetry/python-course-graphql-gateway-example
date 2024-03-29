@@ -1,0 +1,31 @@
+{   "status": "ok",
+    "totalResults": 34,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Kurir",
+            "title": "VEČERAS ODLUKA O LOKALNIM IZBORIMA: Predsednik Vučić u 18 sati sazvao lidere vladajuće koalicije na sastanak, - Kurir",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMipgFodHRwczovL3d3dy5rdXJpci5ycy92ZXN0aS9wb2xpdGlrYS80MzY0Mjk4L3ZlY2VyYXMtb2RsdWthLW8tbG9rYWxuaW0taXpib3JpbWEtcHJlZHNlZG5pay12dWNpYy11LTE4LXNhdGktc2F6dmFvLWxpZGVyZS12bGFkYWp1Y2Uta29hbGljaWplLW5hLXNhc3RhbmFrLXBvenZhbi1pLXZ1bGlu0gGbAWh0dHBzOi8vd3d3Lmt1cmlyLnJzL2FtcC80MzY0Mjk4L3ZlY2VyYXMtb2RsdWthLW8tbG9rYWxuaW0taXpib3JpbWEtcHJlZHNlZG5pay12dWNpYy11LTE4LXNhdGktc2F6dmFvLWxpZGVyZS12bGFkYWp1Y2Uta29hbGljaWplLW5hLXNhc3RhbmFrLXBvenZhbi1pLXZ1bGlu?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-03-29T08:08:39Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Kurir",
+            "title": "PREMINULA MLADA ZVEZDA FILMOVA ZA ODRASLE: Porodica Sofiju pronašla BEZ ZNAKOVA ŽIVOTA, imala je samo 26 godin - Kurir",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3Lmt1cmlyLnJzL3phYmF2YS9wb3Ata3VsdHVyYS80MzY0MjkwL3ByZW1pbnVsYS1zb2ZpamEtbGVvbmUtZ2x1bWljYS1maWxtb3ZhLXphLW9kcmFzbGXSAVJodHRwczovL3d3dy5rdXJpci5ycy9hbXAvNDM2NDI5MC9wcmVtaW51bGEtc29maWphLWxlb25lLWdsdW1pY2EtZmlsbW92YS16YS1vZHJhc2xl?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-03-29T07:43:11Z",
+            "content": null
+        }
+    ]
+}
