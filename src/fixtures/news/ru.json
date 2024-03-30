@@ -1,0 +1,30 @@
+{
+    "status": "ok",
+    "totalResults": 34,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Хибины.ru",
+            "title": "Есть ли братья по разуму: Обнаружена планета с океаном и контрастной температурой — для кого подходят такие условия жизни - новости Хибины.ru - Хибины.ru",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMirgFodHRwczovL3d3dy5oaWJpbnkucnUvbXVybWFuc2theWEtb2JsYXN0L25ld3MvaXRlbS1lc3RsaS1icmF0eWEtcG9yYXp1bXUtb2JuYXJ1amVuYS1wbGFuZXRhLXNva2Vhbm9tLWlrb250cmFzdG5veS10ZW1wZXJhdHVyb3ktZGx5YS1rb2dvLXBvZGhvZHlhdC10YWtpZS11c2xvdml5YS1qaXpuLTMyNTUxMy_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-03-10T07:32:08Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Рязанский портал YA62.RU",
+            "title": "Ночью в Рязанской области зафиксирован аномальный холод - Рязанский портал YA62.RU",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8veWE2Mi5ydS9uZXdzL3NvY2lldHkvbm9jaHl1X3ZfcnlhemFuc2tveV9vYmxhc3RpX3phZmlrc2lyb3Zhbl9hbm9tYWxueXlfa2hvbG9kL9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-03-10T07:13:00Z",
+            "content": null
+        }]}

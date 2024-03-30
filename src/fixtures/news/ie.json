@@ -1,0 +1,43 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [ {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "RTE.ie",
+            "title": "US dispatches army logistics ship to Gaza after Biden vows to build pier - RTE.ie",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3LnJ0ZS5pZS9uZXdzL3dvcmxkLzIwMjQvMDMxMC8xNDM3MDA0LWdhemEtaXNyYWVsLWJpZGVuL9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-03-29T03:33:45Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Irish Independent",
+            "title": "Tommy Conlon: Battle of Liverpool and City gets tasty - Irish Independent",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmluZGVwZW5kZW50LmllL3Nwb3J0L3NvY2Nlci9wcmVtaWVyLWxlYWd1ZS90b21teS1jb25sb24tYmF0dGxlLW9mLWxpdmVycG9vbC1hbmQtY2l0eS1nZXRzLXRhc3R5L2EyMTI2MjI3NTg3Lmh0bWzSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-03-29T02:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Business Post",
+            "title": "New Oura deal sees Otonomee ring up 150 new outsourcing jobs - Business Post",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmJ1c2luZXNzcG9zdC5pZS90ZWNoL25ldy1vdXJhLWRlYWwtc2Vlcy1vdG9ub21lZS1yaW5nLXVwLTE1MC1uZXctb3V0c291cmNpbmctam9icy_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-03-29T01:01:47Z",
+            "content": null
+        }  ]
+}
